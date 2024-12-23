@@ -97,4 +97,53 @@ This course provides detailed, step-by-step instructions (with video and image t
 
 Stop fighting the algorithm and start playing by the rules – *your own*.  My course will provide the edge you need to succeed on TikTok.
 
+## Screenshots by people who have it
+<img src="1.png" width="100">
+<img src="2.png" width="100">
+<img src="3.png" width="100">
+<img src="4.webp" width="100">
+<img src="5.webp" width="100">
+<img src="6.webp" width="100">
+<img src="7.webp" width="100">
+<img src="8.png" width="100">
+<img src="9.png" width="100">
+<img src="10.jpeg" width="100">
+<img src="11.png" width="100">
+<img src="12.jpg" width="100">
+<img src="13.jpg" width="100">
+<img src="14.jpeg" width="100">
+<img src="15.jpg" width="100">
+<img src="16.jpg" width="100">
+<img src="17.jpeg" width="100">
+<img src="18.jpg" width="100">
+<img src="19.jpg" width="100">
+<img src="20.png" width="100">
+<img src="21.jpeg" width="100">
+<img src="22.jpg" width="100">
+<img src="23.jpeg" width="100">
+<img src="24.jpg" width="100">
+<img src="25.jpg" width="100">
+<img src="26.jpg" width="100">
+<img src="27.jpg" width="100">
+<img src="28.jpeg" width="100">
+<img src="29.jpeg" width="100">
+<img src="30.jpeg" width="100">
+<img src="31.jpeg" width="100">
+<img src="32.jpeg" width="100">
+<img src="33.jpg" width="100">
+<img src="34.jpeg" width="100">
+<img src="35.PNG" width="100">
+<img src="36.jpeg" width="100">
+<img src="37.jpg" width="100">
+<img src="39.jpg" width="100">
+<img src="40.jpg" width="100">
+<img src="41.jpg" width="100">
+<img src="42.jpg" width="100">
+<img src="43.jpg" width="100">
+<img src="44.jpg" width="100">
+<img src="45.jpg" width="100">
+<img src="47.jpg" width="100">
+<img src="48.jpg" width="100">
+
+
 
