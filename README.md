@@ -6,9 +6,9 @@ Contact me directly on Telegram @lukemat2 with text "TikTok Geotargeting"
 
 
 
-**This is not just about proxies and SIM cards. It's about complete device camouflage.**
 
-Are you frustrated with TikTok's algorithm? Do you struggle with:
+## Are you frustrated with TikTok's algorithm? Do you struggle with:
+**This is not just about proxies and SIM cards. It's about complete device camouflage.**
 
 * **General FYP feeds** that don't feel local to your target region?
 * **Shadowbans** that cripple your reach?
