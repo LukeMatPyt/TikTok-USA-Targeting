@@ -1,4 +1,5 @@
 # TikTok-USA-Targeting
+![My Image](tikt.webp)
 
 Are you frustrated with TikTok's algorithm? Do you struggle with:
 
