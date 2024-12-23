@@ -13,7 +13,7 @@ Are you frustrated with TikTok's algorithm? Do you struggle with:
 
 Just using a 4G proxy and a SIM card from your target country isn't enough to convince TikTok you are a genuine, local user. **You're likely still getting a generic FYP feed instead of the hyper-local content that a native user in, say, Dallas, Texas would experience.** You need to go deeper.
 
-## Introducing the "TikTok Domination" Course
+## Introducing the "TikTok Geotargeting" Course
 
 My comprehensive course will teach you **exactly how to trick TikTok** into treating you like a normal user in your chosen target country.  We'll go beyond the usual superficial tips and reveal the **hidden device configurations** that will make you virtually invisible to TikTok's detection mechanisms.
 
@@ -35,11 +35,16 @@ This course provides detailed, step-by-step instructions (with video and image t
     *   Sourcing material effectively
 *   **Conversion & Basic Cloaking:** Learn how to use links effectively in your TikTok bio, comments, and videos, including basic cloaking techniques.
 *   **Troubleshooting:** Address common issues with views, guidelines, and platform restrictions, including practical fixes.
+*   
 
 ## What's Included?
 
 *   **Exclusive Access to the Online Course:** A private URL (only for buyers) leading to comprehensive video tutorials, images, and step-by-step guides.
 *   **Direct Contact with Me:**  Ask questions directly and receive personalized assistance.
+
+  ![My Image](tik2.webp)
+  ![My Image](tik3.webp)
+  ![My Image](tik4.webp)
 
 ## Common Questions Answered:
 
@@ -68,17 +73,9 @@ This course provides detailed, step-by-step instructions (with video and image t
 
 **A:** For money. TikTok is a massive platform with huge opportunities. Sharing this knowledge with a few more people won't oversaturate the market or affect my own success.
 
-**Q: What is the required investment?**
-
-**A:**
-    *   \$15 for a proxy.
-    *   \$1-3 for a SIM card.
-    *   A phone, laptop, or desktop running Windows (Mac OS is possible but more complex).
-    *   Note: If you scale your uploads, a longer-term proxy investment is necessary.
-
 **Q: Is it an online website with videos and tutorials?**
 
-**A:** Yes, but the URL is kept private to prevent unauthorized access. (Screenshots of the website are below).
+**A:** Yes, but the URL is kept private to prevent unauthorized access.
 
 **Q: Do you guarantee I will make money?**
 
@@ -92,11 +89,4 @@ This course provides detailed, step-by-step instructions (with video and image t
 
 Stop fighting the algorithm and start playing by the rules – *your own*.  My course will provide the edge you need to succeed on TikTok.
 
-**Contact me directly after purchase for exclusive access and support.**
 
-**Note**: Due to security reasons, I can't disclose the online course URL, it will be only shared with the buyers after purchase. 
-
-<!-- Add here screenshots -->
-[Link to screenshots will be here]
-
-**Get started today and take control of your TikTok journey!**
